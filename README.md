@@ -9,3 +9,6 @@ I hope to learn how to create impactful data visualizations by leveraging my exi
 
 # Portfolio
 This section will be expanded upon throughout my time in the course.
+
+# My New Data Visualization!
+[here](trustinnewsorganizations.md)
