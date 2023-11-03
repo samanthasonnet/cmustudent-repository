@@ -11,8 +11,10 @@ I hope to learn how to create impactful data visualizations by leveraging my exi
 This section will be expanded upon throughout my time in the course.
 
 ## General Government Debt
-<iframe src="https://data.oecd.org/chart/7eM5" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eM5" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+### Embed From OECD Website
+<iframe src="https://data.oecd.org/chart/7eMa" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eMa" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
+### Tableau Embed
 <div class='tableauPlaceholder' id='viz1698970626839' style='position: relative'><noscript><a href='#'><img alt='General Government Debt (Source: OECD Data) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Generalgovernmentdebt&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1698970626839');                    
