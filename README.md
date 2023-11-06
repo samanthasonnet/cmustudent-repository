@@ -9,7 +9,9 @@ I hope to learn how to create impactful data visualizations by leveraging my exi
 
 # Portfolio
 This section will be expanded upon throughout my time in the course.
-           
-[Visualizing Government Debt Using Tableau](/governmentdebt.md)
 
-[Trust in News Organizations](/trustinnewsorganizations.md)
+## Visualizing Government Debt Using Tableau
+[Click Here!](/governmentdebt.md)
+
+## Trust in News Organizations
+[Click Here!](/trustinnewsorganizations.md)
