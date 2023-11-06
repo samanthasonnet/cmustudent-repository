@@ -4,7 +4,7 @@ This page is concerning Samantha Sonnet's portfolio for the Telling Stories with
 # About Samantha
 Samantha (she/her) is a second-year Master of Arts Management student at Carnegie Mellon University. She studied at Washington & Jefferson College for her undergraduate schooling, majoring in Studio Art and double-minoring in Communication Arts and Spanish. Samantha has experience working as a Digital Marketing Intern for Responsival, a Social Media Manager for the Washington & Jefferson College Communication Arts Department, a Social Media Design Resident for MAS, a Climate Engagement Marketing Intern at Phipps Conservatory and Botanical Gardens, and was the Social Media and Marketing Coordinator for AMT Lab last year. This fall Samantha began her new position as the Chief Editor for AMT Lab at Carnegie Mellon and expects to graduate in May of 2024.
 
-![My Dog Lucy!](/IMG_2092.jpeg)
+![My Profile](/(https://amt-lab.org/staff))
 
 
 ## What I hope to learn
