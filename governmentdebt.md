@@ -4,12 +4,16 @@
 
 ## General Government Debt
 ### Embed From OECD Website
+#### Source: Organization for Economic Co-operation and Development (OECD)
+(https://data.oecd.org/gga/general-government-debt.htm.)
 <iframe src="https://data.oecd.org/chart/7eMa" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eMa" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 As stated on the OECD website, "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits." This graph, although fairly clean in terms of organization, layout, and writing, is not designed to the best it can be. To begin, the names of the countries at the bottom of the graph are very small and may be hard to read for some viewers. In addition to this, the feature allowing the viewer to "highlight" specific countries by clicking on them becomes overwhelming with the rainbow of colors that is created when multiple countries are highlighted at the same time.
 
 ## General Government Debt
 ### Embed From Tableau
+#### Source: Organization for Economic Co-operation and Development (OECD)
+(https://data.oecd.org/gga/general-government-debt.htm.)
 <div class='tableauPlaceholder' id='viz1698970626839' style='position: relative'><noscript><a href='#'><img alt='General Government Debt (Source: OECD Data) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Generalgovernmentdebt&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ge&#47;Generalgovernmentdebt&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1698970626839');                    
@@ -24,6 +28,8 @@ Using the same dataset as above, this heat map graph is more effective from a co
 
 ## Cumulative General Government Debt
 ### Embed From Tableau
+#### Source: Organization for Economic Co-operation and Development (OECD)
+(https://data.oecd.org/gga/general-government-debt.htm.)
 <div class='tableauPlaceholder' id='viz1698973322991' style='position: relative'><noscript><a href='#'><img alt='Cumulative General Government Debt By CountryFrom 2018-2022 (Source: OECD Data) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cu&#47;CumulativeGeneralgovernmentdebt&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CumulativeGeneralgovernmentdebt&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cu&#47;CumulativeGeneralgovernmentdebt&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1698973322991');                    
