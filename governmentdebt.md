@@ -1,14 +1,15 @@
 [Back to Main Page](/README.md)
 
 # Assignment: Visualizing Government Debt Using Tableau
+As stated on the Organization for Economic Co-Operation and Development's (OECD) website, "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits." The following graphs on this page reflect the dataset taken from OECD's website from a range of years, but mainly between the bracketed years of 1995 - 2022. 
 
-## General Government Debt
+## General Government Debt (2018)
 ### Embed From OECD Website
 #### Source: Organization for Economic Co-operation and Development (OECD)
 (https://data.oecd.org/gga/general-government-debt.htm.)
 <iframe src="https://data.oecd.org/chart/7eMa" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eMa" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
-As stated on the OECD website, "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits." This graph, although fairly clean in terms of organization, layout, and writing, is not designed to the best it can be. To begin, the names of the countries at the bottom of the graph are very small and may be hard to read for some viewers. In addition to this, the feature allowing the viewer to "highlight" specific countries by clicking on them becomes overwhelming with the rainbow of colors that is created when multiple countries are highlighted at the same time.
+This graph, although fairly clean in terms of organization, layout, and writing, is not designed to the best it can be. To begin, the names of the countries at the bottom of the graph are very small and may be hard to read for some viewers. In addition to this, the feature allowing the viewer to "highlight" specific countries by clicking on them becomes overwhelming with the rainbow of colors that is created when multiple countries are highlighted at the same time. If the viewer is looking to compare solely one year at a time, then this graphic may be a better option than what is to follow because it is comparing the data only from 2018, a year that I decided to choose for no specific reasoning other than it appeared that a good amount of data had been entered in this year, therefore making the graph visually and intellectually more interesting.
 
 ## General Government Debt
 ### Embed From Tableau
@@ -24,7 +25,7 @@ As stated on the OECD website, "General government debt-to-GDP ratio measures th
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Using the same dataset as above, this heat map graph is more effective from a color standpoint in which only two hues of colors (blues and oranges) are used to differentiate the data. However, this depiction can be a bit overwhelming to look at with the large number of values displayed. Although potentially more accessible than the previous graph, the information being presented is still a lot for the viewer to digest.
+Using the same dataset as above (but this time using the full dataset from 1995 - 2022 instead of solely focusing on one year), this heat map graph is more effective from a color standpoint in which only two hues of colors (blues and oranges) are used to differentiate the data. However, this depiction can be a bit overwhelming to look at with the large number of values displayed. Although potentially more intuitive and than the previous graph, the information being presented is still a lot for the viewer to digest.
 
 ## Cumulative General Government Debt
 ### Embed From Tableau
