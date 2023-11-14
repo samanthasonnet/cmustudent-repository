@@ -15,3 +15,6 @@ This section will be expanded upon throughout my time in the course.
 
 ## Trust in News Organizations
 [Click Here!](/trustinnewsorganizations.md)
+
+## Cheapest Protein Types in Pittsburgh
+[Click Here!](/proteinsbyprice.md)
