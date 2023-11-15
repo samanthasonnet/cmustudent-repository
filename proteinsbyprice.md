@@ -12,7 +12,7 @@ This is a simpler version of the graph, which only shows those proteins that cos
 ## Critiques from Peers
 ### Student, 23, female: 
 #### Can you tell me what you think this is?
->"So I think this is trying to show the cost of protein options at the store (honestly kind of slay I needed this)."
+>"So I think this is trying to show the cost of protein options at the store (honestly kind of slay I needed this).">
 #### Can you describe to me what this is telling you?
 >"What I’m seeing is that the vegan proteins are all around $1.25 or less per 20 grams, and on average, animal proteins are more expensive."
 #### Is there anything you find surprising or confusing?
