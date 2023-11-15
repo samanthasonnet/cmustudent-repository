@@ -9,24 +9,24 @@ For this assignment, I chose to use this dataset because I think this informatio
 #### Can you tell me what you think this is?
 >"So I think this is trying to show the cost of protein options at the store (honestly kind of slay I needed this)."
 #### Can you describe to me what this is telling you?
-"What I’m seeing is that the vegan proteins are all around $1.25 or less per 20 grams, and on average, animal proteins are more expensive."
+>"What I’m seeing is that the vegan proteins are all around $1.25 or less per 20 grams, and on average, animal proteins are more expensive."
 #### Is there anything you find surprising or confusing?
-"I’m surprised to see how expensive CANNED chicken is??? Thats shocking to me, and it’s also shocking to see how beans are more expensive than chicken breast and right around the price of eggs for the same amount of protein."
+>"I’m surprised to see how expensive CANNED chicken is??? Thats shocking to me, and it’s also shocking to see how beans are more expensive than chicken breast and right around the price of eggs for the same amount of protein."
 #### Who do you think is the intended audience for this?
-"I think the audience for this is people who are trying to save money or people trying to convince their friends to eat a plant based diet?" 
+>"I think the audience for this is people who are trying to save money or people trying to convince their friends to eat a plant based diet?" 
 #### Is there anything you would change or do differently?
-"I think that I’d use your opportunity to redesign to really hone in on an audience (maybe vegans could be good), you could use grey for the meats to make the vegan and vegetarian options stand out! You don’t need to use the same graph title or anything (you could do something like 'Eating Plant-Based Helps Your Health and your Wallet'. You could even use like two shades of green (lighter for vegetarian and darker for vegan)"
+>"I think that I’d use your opportunity to redesign to really hone in on an audience (maybe vegans could be good), you could use grey for the meats to make the vegan and vegetarian options stand out! You don’t need to use the same graph title or anything (you could do something like 'Eating Plant-Based Helps Your Health and your Wallet'. You could even use like two shades of green (lighter for vegetarian and darker for vegan)"
 ### Student, 23, female:
 #### Can you tell me what you think this is?
-"It looks like bar graphs displaying the differences of price of proteins for 2023."
+>"It looks like bar graphs displaying the differences of price of proteins for 2023."
 #### Can you describe to me what this is telling you?
-"This tells me that contrary to popular beliefs, vegan or vegetarian options of proteins seem to be cheaper per unit than 'traditional' sources like meat."
+>"This tells me that contrary to popular beliefs, vegan or vegetarian options of proteins seem to be cheaper per unit than 'traditional' sources like meat."
 #### Is there anything you find surprising or confusing?
-"I’m surprised that canned chicken is the most expensive per unit and that the vegetarian and vegan options are cheaper."
+>"I’m surprised that canned chicken is the most expensive per unit and that the vegetarian and vegan options are cheaper."
 #### Who do you think is the intended audience for this?
-"The intended audience could be those looking for a variety of proteins options for a more diverse diet, or those who are unable to get protein from meat."
+>"The intended audience could be those looking for a variety of proteins options for a more diverse diet, or those who are unable to get protein from meat."
 #### Is there anything you would change or do differently?
-"I know it is labeled as the cheapest protein options, but it would be interesting to see how the 'fake meats' would compare, like black bean burgers/patties, impossible patties, etc., because black beans as a source shown in the graph are on the lower end. It would be interesting to see if and how much that would change after production into ✨patties✨"
+>"I know it is labeled as the cheapest protein options, but it would be interesting to see how the 'fake meats' would compare, like black bean burgers/patties, impossible patties, etc., because black beans as a source shown in the graph are on the lower end. It would be interesting to see if and how much that would change after production into ✨patties✨"
 ## Redesigned Visualization
 <div class='tableauPlaceholder' id='viz1700003967077' style='position: relative'><noscript><a href='#'><img alt='EATING PLANT-BASED CAN BENEFIT YOUR HEALTH AND YOUR WALLETDATASET FOCUSED ON PRICES IN PITTSBURGH IN 2023 PER 20 GRAM SERVING OF PROTEIN. SOURCE (LIFEHACKER.COM)KEY: LIGHT GREEN = VEGETARIANDARK GREEN = VEGANGREY = NEITHER VEGETARIAN NOR VEGAN ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PR&#47;PROTEINS&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PROTEINS&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PR&#47;PROTEINS&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
