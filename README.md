@@ -18,3 +18,7 @@ This section will be expanded upon throughout my time in the course.
 
 ## Cheapest Protein Types in Pittsburgh
 [Click Here!](/proteinsbyprice.md)
+
+## Final Project
+[Click Here!](/finalproject.md)
+
