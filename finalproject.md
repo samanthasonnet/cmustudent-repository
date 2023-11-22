@@ -32,6 +32,7 @@ Text here...
 
 ### artlook® SWPA
 >"artlook® SWPA," Arts Ed Collaborative, Accessed November 21, 2023, [Link](https://artsedcollab.org/artlook/)
+>
 >I plan to use this data to use specific case studies of schools or organizations who are currently experiencing either an arts education disparity or an arts education abundance to contrast together, find any potential overlaps, and see where the differences are occuring.
 
 ### U.S. Census Bureau
