@@ -20,14 +20,17 @@ Text here...
 ## Bibliography
 ### SMU Data Arts Vibrancy 
 >“Arts Vibrancy Map: 2022 Edition: SMU DataArts,” DataArts, accessed November 21, 2023, [Link](https://dataarts.smu.edu/ArtsVibrancyMap/.)
+>
 >I plan to use this data to understand the arts vibrancy index levels of the various 13 counties in Southwestern PA, specifically concerning the ratings of Arts Providers, Arts Dollars, Government Support, & Socio-Economic Status to gain a better understanding of the access to resources that each county has, and to benchmark the counties against one another.
 
 ### Black Students Deserve Equitable Access to Arts Education
 >"Black Students Deserve Equitable Access to Arts Education," Word In Black, accessed November 21, 2023, [Link](https://wordinblack.com/2023/02/black-students-deserve-equitable-access-to-arts-education/#:~:text=Other%20than%20Indigenous%20students%2C%20of,and%20Asian%20students%20(2%25).)
+>
 >I plan to use this data to specifically look at how black students are negatively affected concerning access and equitable opportunities to arts education resources. I think this information is crucial and will most likely compliment the information gathered from both the SMU Arts Vibrancy Map and the U.S Census information to understand not only HOW this disparity is occuring but WHY and how I propose we CAN try to fix it.
 
 ### Title 1 Status for Public Schools in Pennsylvania Counties
 >"Title 1 Status for Public Schools in Pennsylvania Counties," ZipDataMaps, accessed November 21, 2023, [Link](https://www.zipdatamaps.com/counties/state/education/map-of-percentage-of-title-1-status-public-schools-for-counties-in-pennsylvania)
+>
 >I plan to use this data to display any trends concerning lack/abundance of resources to Title 1/Non-Title 1 schools to determine if this plays any factor in arts funding and arts education success in K-12 schools.
 
 ### artlook® SWPA
@@ -37,4 +40,5 @@ Text here...
 
 ### U.S. Census Bureau
 >"QuickFacts: Pennsylvania," U.S. Census Bureau, Accessed November 21, 2023, [Link](https://www.census.gov/quickfacts/fact/table/PA/PST045222)
+>
 >I plan to use this data to compliment the SMU Arts Vibrancy Map to determine how demographics, housing, health, education, and income affect the overall vibrancy score of an area.
