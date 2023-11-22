@@ -9,9 +9,9 @@
 ## Initial sketches
 ![Initial Story Structure](IMG_5029.jpeg)
 
-[Southwestern PA Arts Vibrancy and Title 1 School Percentages](/IMG_5030.HEIC)
+![Southwestern PA Arts Vibrancy and Title 1 School Percentages](IMG_5030.jpeg)
 
-[Comparisons Between Non-Title 1 and Title-1 School Resources](/IMG_5031.HEIC)
+![Comparisons Between Non-Title 1 and Title-1 School Resources](IMG_5031.jpeg)
 
 ## The data
 > Most of the counties within Southwestern Pennsylvania land within the 70-89 Arts Vibrancy index range. It is also notable that arts funding and socio-economic status show large disparities between the counties. Many residents of the all encompassing counties are living in poverty.  The most art vibrant county is Allegheny County with an index greater than 90, which is not surprising given Pittsburgh’s art-rich culture that is contained within this perimeter. Indexing lowest out of the regions is Greene County, with an index between 20-29, significantly lower than the rest of the other counties. Fayette & Armstrong counties fall in the 50-59 range, Somerset & Cambria in the 60-69 range, and Washington, Beaver, Lawrence, Butler, and Westmoreland counties in the 70-89 range. It is also notable that arts funding is significantly lacking in Greene and Armstrong counties, and socio-economic status appears to be low in Greene, Cambria, Somerset, Fayette, and Mercer counties all falling below the 50 range. Overall, a significant amount of government funding is going to Allegheny and Indiana counties. A shocking number is that only 17% of people who live in Indiana county are considered not to be living in poverty, meaning that 83% of people in the county are considered to be in poverty. A deeper analysis of these numbers will greatly help to tell the story and understand exactly which disparities currently exist on a county-by-county basis. For the purposes of this project, I am interested in using these vibrancy scores to better understand and analyze the situations that schools and art organizations currently find themselves in with respect to their counties.
