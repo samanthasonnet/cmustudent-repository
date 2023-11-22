@@ -7,7 +7,7 @@
 > Southwestern Pennsylvania consists of 13 counties and artlook® SWPA currently extends its potential reach to all of those 13: Allegheny, Armstrong, Beaver, Butler, Cambria, Fayette, Greene, Indiana, Lawrence, Mercer, Somerset, Washington, and Westmoreland. To better understand the differences between each respective county, our Systems team utilized the 2022 SMU Data Arts Vibrancy Map, which is a visual, interactive tool that describes the arts vibrancy of various counties throughout the United States based on the following five metrics: Arts Providers, Arts Dollars, Government Support, Socio-Economic Status, Other Leisure. The vibrancy score is based on an index from 0-100, with a 100 being a perfect arts vibrancy score, comparable to New York City, for example. In general, the more arts-rich and/or “well-off” the county is, the higher the index score will be. It is through this dataset, and through the U.S. Census dataset and various other resources that discuss arts education in Pennslyvania, that I will be able to tell an impactful story. If I am able to tell this story succesfully, then it is my intention that the reader understands the need for more equity in arts education resources for students and teachers so that we all can provide equal opportunities for our future leaders of the creative industry. We can do this by making these disparities known and holding privileged organizations accountable to share their resources, and by communicating with PA legislators to amend the PA Core Arts Standards to become diversified and equitable.
 
 ## Initial sketches
-![Initial Story Structure](IMG_5029.HEIC)
+![Initial Story Structure](IMG_5029.jpeg)
 
 [Southwestern PA Arts Vibrancy and Title 1 School Percentages](/IMG_5030.HEIC)
 
