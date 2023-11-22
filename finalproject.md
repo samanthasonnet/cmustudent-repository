@@ -15,7 +15,16 @@ Text here...
 
 ## Links for the Data
 ### SMU Data Arts Vibrancy 
-“Arts Vibrancy Map: 2022 Edition: SMU DataArts,” DataArts, accessed October 24, 2023, (https://dataarts.smu.edu/ArtsVibrancyMap/.)
+“Arts Vibrancy Map: 2022 Edition: SMU DataArts,” DataArts, accessed November 21, 2023, (https://dataarts.smu.edu/ArtsVibrancyMap/.)
+
+### Black Students Deserve Equitable Access to Arts Education
+"Black Students Deserve Equitable Access to Arts Education," Word In Black, accessed November 21, 2023, (https://wordinblack.com/2023/02/black-students-deserve-equitable-access-to-arts-education/#:~:text=Other%20than%20Indigenous%20students%2C%20of,and%20Asian%20students%20(2%25).)
+
+### Title 1 Status for Public Schools in Pennsylvania Counties
+"Title 1 Status for Public Schools in Pennsylvania Counties," ZipDataMaps, accessed November 21, 2023, (https://www.zipdatamaps.com/counties/state/education/map-of-percentage-of-title-1-status-public-schools-for-counties-in-pennsylvania)
+
+### artlook® SWPA
+"artlook® SWPA," Arts Ed Collaborative, Accessed November 21, 2023, (https://artsedcollab.org/artlook/)
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
