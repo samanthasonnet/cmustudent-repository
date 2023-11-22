@@ -10,10 +10,13 @@
 
 ## Sketches
 ![Initial Story Structure](IMG_5029.jpeg)
+> This image shows the flow of the structure of the story I am going to tell concerning equity in Southwestern PA arts education, specifically addressing the disparities in K-12 arts ed through a lack of accountability within PA Core Arts Standards. I will begin by presenting the reader with the current situation of Southwestern PA K-12 schools, Title 1/Non-Title 1, etc. and then move onto the disparities shown between arts resources in Allegheny (and other urban) counties compared to the other remaining counties of the 13 total. I will also discuss more about how the PA arts standards are overall lacking. Finally, I will end with a call-to-action concerning how to hold privileged organizations/schools/funders accountable and how to contact PA legislators to make things better.
 
 ![Southwestern PA Arts Vibrancy and Title 1 School Percentages](IMG_5030.jpeg)
+> This is a map that is similar to the original SMU Data Arts Vibrancy Map, yet expands on it by adding in factors of Title 1/Non-Title 1 school percentages and total schools in that respective county, which will then be complimented with the various other index levels of Arts Providers, Arts Dollars, Government Support, Socio-Economic Status, and Other Leisure which is provided within the database.
 
 ![Comparisons Between Non-Title 1 and Title-1 School Resources](IMG_5031.jpeg)
+> This visualization uses data from the U.S. Census Bureau and Donorschoose.org to show a few (of the many) disparities that exist between Title 1/Non-Title 1 K-12 schools by using metrics of % BIPOC students, % free/reduced lunches, % teachers to students ratio, and % in poverty with the potential to add a few more metrics upon further research.
 
 ## Method and medium
 > In general, I plan to show this data in a plethora of ways to tell my story, mainly using Tableau (and occasionally Canva), to show many different types of visualizations (i.e. interactive maps, comparison charts, infographics, etc.) that each contribute to my overarching story concerning overarching arts education in Pennsylvania, but focusing on the Southwestern PA region, as that is what I feel most knowledgeable about currently. I also feel that this data is most relevant to me, as a Pittsburgh-native, who plans on remaining in the area to find work in the art industry, and therefore believe that this information is imperative to my future success as an arts manager.
