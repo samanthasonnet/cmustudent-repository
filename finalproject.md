@@ -1,4 +1,5 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Final Project Part 1
 ## Project Outline: K-12 Arts Education Disparities in Pennsyvania
 > This final project looks at the large disparities that exist with K-12 arts education in Pennsylvania, specifically focusing on the Southwestern region of Pennsylvania. I was inspired to focus my project on this topic due to my current involvement in a Systems Synthesis project for Carnegie Mellon University that is working with Arts Education Collaborative's initiative known as artlook SWPA, an online database that serves as a robust tool for artists, arts educators, and arts organizations. I found that after working on this project for the entire Fall semester, I have grown increasingly passionate about arts education in Pennsylvania, and was absolutely shocked to find out the disparities that exist between Title I/Non-Title I school resources, as well as Urban/Non-Urban arts organization resources. Overall, I acknowledge that this undertaking may be slightly tricky because I need to maintain the confidential information that was given to us by our client while still telling a meaningful, untold story... as there is plenty of valuable information to tell and I feel it is important that it be shared.
@@ -21,10 +22,13 @@ Text here...
 >“Arts Vibrancy Map: 2022 Edition: SMU DataArts,” DataArts, accessed November 21, 2023, [Link](https://dataarts.smu.edu/ArtsVibrancyMap/.)
 
 ### Black Students Deserve Equitable Access to Arts Education
-"Black Students Deserve Equitable Access to Arts Education," Word In Black, accessed November 21, 2023, [Link](https://wordinblack.com/2023/02/black-students-deserve-equitable-access-to-arts-education/#:~:text=Other%20than%20Indigenous%20students%2C%20of,and%20Asian%20students%20(2%25).)
+>"Black Students Deserve Equitable Access to Arts Education," Word In Black, accessed November 21, 2023, [Link](https://wordinblack.com/2023/02/black-students-deserve-equitable-access-to-arts-education/#:~:text=Other%20than%20Indigenous%20students%2C%20of,and%20Asian%20students%20(2%25).)
 
 ### Title 1 Status for Public Schools in Pennsylvania Counties
-"Title 1 Status for Public Schools in Pennsylvania Counties," ZipDataMaps, accessed November 21, 2023, [Link](https://www.zipdatamaps.com/counties/state/education/map-of-percentage-of-title-1-status-public-schools-for-counties-in-pennsylvania)
+>"Title 1 Status for Public Schools in Pennsylvania Counties," ZipDataMaps, accessed November 21, 2023, [Link](https://www.zipdatamaps.com/counties/state/education/map-of-percentage-of-title-1-status-public-schools-for-counties-in-pennsylvania)
 
 ### artlook® SWPA
-"artlook® SWPA," Arts Ed Collaborative, Accessed November 21, 2023, [Link](https://artsedcollab.org/artlook/)
+>"artlook® SWPA," Arts Ed Collaborative, Accessed November 21, 2023, [Link](https://artsedcollab.org/artlook/)
+
+### U.S. Census Bureau
+>"QuickFacts: Pennsylvania," U.S. Census Bureau, Accessed November 21, 2023, [Link](https://www.census.gov/quickfacts/fact/table/PA/PST045222)
