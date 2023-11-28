@@ -13,18 +13,11 @@ Text here!
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+> 1. What do you think the story is that I am trying to tell?
+> 2. Who is the intended audience for this?
+> 3. Does anything particularly surprise you?
+> 4. As an educator (I plan to interview at least one educator from a Title I school and one from a Non-Title I school), do these statistics resonate with you and your personal experience?
+> 5. Are you left with any questions after reading all of this?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
