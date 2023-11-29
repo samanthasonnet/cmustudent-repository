@@ -1,4 +1,3 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 ## Visualization One
@@ -29,13 +28,10 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+> My target audience is anyone who is personally affected by the K-12 arts education sector in Southwestern Pennsylvania, specifically students, educators, parents, artists, arts organizations, policy makers and educational advocates. I purposely interviewed one educator from a Southwestern PA Non-Title I School as well as one from a Title I School to get their perspectives on if I am telling the story in a relevant manner. 
 
 ## Interview script
 > 1. What do you think the story is that I am trying to tell?
@@ -45,15 +41,10 @@ Text here!
 > 5. Are you left with any questions after reading all of this?
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+### Non-Title I Middle School Educator, Female, 30s
+### Title I High School Educator, Male, 30s
+### Student Alumni of Southwestern PA Education System, Female, 20s
+### Parent of a (not affiliated above) Student Alumni of Southwestern PA Education System, Male, 50s
 
 
 # Identified changes for Part III
