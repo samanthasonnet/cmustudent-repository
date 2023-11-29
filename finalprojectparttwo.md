@@ -2,7 +2,7 @@
 
 # Final Project Part Two
 ## Beginning Shorthand Layout
-[Click Here!]((https://preview.shorthand.com/15upZj4yLYDpfGFJ))
+[Click Here!](https://preview.shorthand.com/15upZj4yLYDpfGFJ)
 ## Wireframes / Storyboards
 ### Visualization One
 ![Initial Story Structure](one.jpeg)
