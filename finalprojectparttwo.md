@@ -103,10 +103,10 @@ Although not finished, this beginning layout for my shorthand project will be ex
 > The following are changes I plan to make for the creation of Part Three of the final project.
 
 > ### Research synthesis
-1. Show the disparities that exist.
-2. Be more clear on my explanations. 
+1. Show the disparities that exist by using data from my selected sources.
+2. Be more clear on my explanations and simplify my explanations. 
 3. Use shorthand to tell a linear story.                 
 > ### Anticipated changes for Part Three
-1. Use testimonials from those who are members of the intended audience.
+1. Use testimonials from those who are members of the intended audience and use compelling statistics.
 2. Make sure to define acronyms, I cannot assume all people know what I do.
-3. Set the story to frame the narrative for a more accessible story.
+3. Set the story to frame the narrative for a more accessible story that all people can connect to.
