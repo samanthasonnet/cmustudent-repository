@@ -49,15 +49,15 @@
 ### Interview Findings
 #### Non-Title I Middle School Educator, Female, 30s:
 ##### What do you think the story is that I am trying to tell?
-...
+"I believe the story you’re trying to tell is that we need to put equal amounts of art resources in all schools (Title I or Non-Title I)"
 ##### Who is the intended audience for this?
-...
+"The audience is anyone who is affected by arts education in schools. I feel the data would be most suitable for the administrators of the schools, as well as members of the state government. They should see that funding is needed and changes should be made."
 ##### Does anything particularly surprise you?
-...
+"I am not surprised by the discrepancies presented. Art education as a whole is not a focus, especially when funding is low."
 ##### As an educator (I plan to interview at least one educator from a Title I school and one from a Non-Title I school), do these statistics resonate with you and your personal experience?
-...
+"I believe art education is important for all learners. Having art classes in schools allows the students to express themselves and learn a variety of techniques that can help them beyond the classroom. The fact that not all art programs are equal means that not all students are learning equally no matter what school they attend."
 ##### Are you left with any questions after reading all of this?
-...
+"I would be interested to learn more about how the funding is determined and why some feel that art education is not a priority."
 
 #### Title I High School Educator, Male, 30s:
 ##### What do you think the story is that I am trying to tell?
