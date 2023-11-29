@@ -1,4 +1,4 @@
-| [Main Page](/README.md) | [Final Project Part One](/finalproject.md)
+| [Main Page](/README.md) | [Final Project Part One](/finalproject.md) |
 
 # Final Project Part Two
 ## Beginning Shorthand Layout
