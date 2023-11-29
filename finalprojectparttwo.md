@@ -49,7 +49,7 @@
 > 5. Are you left with any questions after reading all of this?
 
 ### Interview Findings
-#### Non-Title I Middle School Educator, Female, 30s:
+> #### Non-Title I Middle School Educator, Female, 30s:
 ##### What do you think the story is that I am trying to tell?
 "I believe the story you’re trying to tell is that we need to put equal amounts of art resources in all schools (Title I or Non-Title I)"
 ##### Who is the intended audience for this?
