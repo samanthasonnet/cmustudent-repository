@@ -103,10 +103,10 @@
 
 | Research synthesis                       | Anticipated changes for Part Three                                              |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Create more of a storyline to show the   | Use testimonials from those who are members of the intended audience to show    |
-| disparities that currently exist.        | the impact of the disparities that exist.                                       |
+| Show the disparities that exist.         | Use testimonials from those who are members of the intended audience.           |
 |                                          |                                                                                 |
-| Be more clear on my explanations.        | Make sure to define acronyms, I cannot assume all people know what I am         |  |                                          | referring to.                                                                   |
 |                                          |                                                                                 |
-| Use shorthand to tell a linear story.    | Set the story, starting from the beginning, to frame the narrative for a more   |  |                                          |accessible story.                                                                |    
+| Be more clear on my explanations.        | Make sure to define acronyms, I cannot assume all people know what I do.        |  |                                          |                                                                                 |
+|                                          |                                                                                 |
+| Use shorthand to tell a linear story.    | Set the story to frame the narrative for a more accessible story.               |             
 > ...include any final thoughts you have here. 
