@@ -4,7 +4,7 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 ## Visualization One
-![Initial Story Structure](IMG_5029.jpeg)
+![Initial Story Structure](305BC084-0F80-478B-99C6-BDE065C67386.png)
 
 ## Visualization Two
 ![Understanding Title I v. Non-Title I Schools](IMG_5029.jpeg)
