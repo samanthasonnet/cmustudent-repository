@@ -102,13 +102,11 @@ Although not finished, this beginning layout for my shorthand project will be ex
 ## Identified Changes for Part III
 > The following are changes I plan to make for the creation of Part Three of the final project.
 
-
-| Research synthesis                       | Anticipated changes for Part Three                                              |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Show the disparities that exist.         | Use testimonials from those who are members of the intended audience.           |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| Be more clear on my explanations.        | Make sure to define acronyms, I cannot assume all people know what I do.        |  |                                          |                                                                                 |
-|                                          |                                                                                 |
-| Use shorthand to tell a linear story.    | Set the story to frame the narrative for a more accessible story.               |             
-> ...include any final thoughts you have here. 
+> ### Research synthesis
+1. Show the disparities that exist.
+2. Be more clear on my explanations. 
+3. Use shorthand to tell a linear story.                 
+> ### Anticipated changes for Part Three
+1. Use testimonials from those who are members of the intended audience.
+2. Make sure to define acronyms, I cannot assume all people know what I do.
+3. Set the story to frame the narrative for a more accessible story.
