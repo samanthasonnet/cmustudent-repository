@@ -28,6 +28,7 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+> This visualization uses data from the U.S. Census Bureau and Donorschoose.org to show a few (of the many) disparities that exist between Title 1/Non-Title 1 K-12 schools by using metrics of % BIPOC students, % free/reduced lunches, % teachers to students ratio, and % in poverty.
 
 # User research 
 
