@@ -61,7 +61,7 @@
 ##### Are you left with any questions after reading all of this?
 "I would be interested to learn more about how the funding is determined and why some feel that art education is not a priority."
 
-#### Title I High School Educator, Male, 30s:
+> #### Title I High School Educator, Male, 30s:
 ##### What do you think the story is that I am trying to tell?
 "I think your presentation is highlighting a disparity of art resources between Title I schools verse Non-Title I schools. I think you’re also implying that though non-title I schools have the appropriate resources, their art standards are still lacking overall. In addition, to combat the lack of art education resources within title I schools, you’re imploring that we contact our local legislatures; however, to address to lack of appropriate art standards in non-title I schools, you’re imploring that we hold these privileged organizations and schools more accountable."
 ##### Who is the intended audience for this?
@@ -73,7 +73,7 @@
 ##### Are you left with any questions after reading all of this?
 "I’m curious as to why Non-Title I schools and more privileged organizations are not investing more in art education?"
 
-#### Student Alumni of Southwestern PA Education System, Female, 20s:
+> #### Student Alumni of Southwestern PA Education System, Female, 20s:
 ##### What do you think the story is that I am trying to tell?
 "These graphs show a clear difference between the mentioned categories of Title I and Non-Title I schools in the area. The education system is not providing a learning opportunity for students, especially in the arts field."
 ##### Who is the intended audience for this?
@@ -85,7 +85,7 @@
 ##### Are you left with any questions after reading all of this?
 "How can we move forward and make a difference to create equal learning opportunities for everyone?"
 
-#### Parent of a (not affiliated above) Student Alumni of Southwestern PA Education System, Male, 50s:
+> #### Parent of a (not affiliated above) Student Alumni of Southwestern PA Education System, Male, 50s:
 ##### What do you think the story is that I am trying to tell?
 "Title 1 is not addressing the arts properly for underprivileged schools."
 ##### Who is the intended audience for this?
@@ -106,7 +106,7 @@
 | Create more of a storyline to show the   | Use testimonials from those who are members of the intended audience to show    |
 | disparities that currently exist.        | the impact of the disparities that exist.                                       |
 |                                          |                                                                                 |
+| Be more clear on my explanations.        | Make sure to define acronyms, I cannot assume all people know what I am         |  |                                          | referring to.                                                                   |
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
+| Use shorthand to tell a linear story.    | Set the story, starting from the beginning, to frame the narrative for a more   |  |                                          |accessible story.                                                                |    
 > ...include any final thoughts you have here. 
