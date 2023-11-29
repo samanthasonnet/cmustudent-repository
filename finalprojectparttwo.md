@@ -3,6 +3,7 @@
 # Final Project Part Two
 ## Beginning Shorthand Layout
 [Click Here!](https://preview.shorthand.com/15upZj4yLYDpfGFJ)
+
 Although not finished, this beginning layout for my shorthand project will be expanded upon as I continue to gather all the necessary information that I need to tell the story in the best manner possible.
 ## Wireframes / Storyboards
 ### Visualization One
