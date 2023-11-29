@@ -63,38 +63,39 @@
 
 #### Title I High School Educator, Male, 30s:
 ##### What do you think the story is that I am trying to tell?
-...
+"I think your presentation is highlighting a disparity of art resources between Title I schools verse Non-Title I schools. I think you’re also implying that though non-title I schools have the appropriate resources, their art standards are still lacking overall. In addition, to combat the lack of art education resources within title I schools, you’re imploring that we contact our local legislatures; however, to address to lack of appropriate art standards in non-title I schools, you’re imploring that we hold these privileged organizations and schools more accountable."
 ##### Who is the intended audience for this?
-...
+"I believe the intended audience are administrative personnel and school board members of Title I and Non-Title I school districts, plus privileged organizations."
 ##### Does anything particularly surprise you?
-...
+"I’m surprised that Non-Title I schools aren’t doing a better job using their available resources to highlight art education. I understand that art isn’t a state tested subject, however, these schools still have the resources to adhere to the art education standards at an exemplary level."
 ##### As an educator (I plan to interview at least one educator from a Title I school and one from a Non-Title I school), do these statistics resonate with you and your personal experience?
-...
+"I’m a teacher at a Title I institution so these statistics absolutely resonate with me. Most of our Title I fund is used on other resources we deem more important than art and/or are state tested. Because we’re already limited on resources, we tend to dedicate most of those resources to the subjects that are state tested."
 ##### Are you left with any questions after reading all of this?
-...
+"I’m curious as to why Non-Title I schools and more privileged organizations are not investing more in art education?"
 
 #### Student Alumni of Southwestern PA Education System, Female, 20s:
 ##### What do you think the story is that I am trying to tell?
-...
+"These graphs show a clear difference between the mentioned categories of Title I and Non-Title I schools in the area. The education system is not providing a learning opportunity for students, especially in the arts field."
 ##### Who is the intended audience for this?
-...
+"I think this could go two ways: on one hand, the audience would be the school systems to bring evidence that they need to do better, and on the other hand, parents, teachers and administrators are the audience and this gives them some of the information to stand up and make changes."
 ##### Does anything particularly surprise you?
-...
+"To be honest, none of this information surprises me."
 ##### As a student alumni of this educational system, do these statistics resonate with you and your personal experience?
-...
+"My experience was likely better than others with the opportunities that were provided for us in the arts, but I definitely think that there are improvements to be made. For teachers, students, and everyone in education, we should try to bring as many opportunities as possible."
 ##### Are you left with any questions after reading all of this?
-...
+"How can we move forward and make a difference to create equal learning opportunities for everyone?"
+
 #### Parent of a (not affiliated above) Student Alumni of Southwestern PA Education System, Male, 50s:
 ##### What do you think the story is that I am trying to tell?
-...
+"Title 1 is not addressing the arts properly for underprivileged schools."
 ##### Who is the intended audience for this?
-...
+"The intended audience is activists concerned about these disparities and those most adversely affected by them."
 ##### Does anything particularly surprise you?
-...
+"Government assistance is inadequately addressing arts education."
 ##### As a parent of a student alumni of this educational system, do these statistics resonate with you and your personal experience?
-...
+"As a parent, while I cannot relate to the experience, I am appalled at them."
 ##### Are you left with any questions after reading all of this?
-...
+"Not really, other than I’m not sure what a BIPOC student means."
 
 ## Identified Changes for Part III
 > The following are changes I plan to make for the creation of Part Three of the final project.
