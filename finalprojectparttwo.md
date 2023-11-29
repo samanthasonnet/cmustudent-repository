@@ -2,6 +2,7 @@
 # Wireframes / storyboards
 ## Visualization One
 ![Initial Story Structure](one.jpeg)
+> This image shows the flow of the structure of the story I am going to tell concerning equity in Southwestern PA arts education, specifically addressing the disparities in K-12 arts ed through a lack of accountability within PA Core Arts Standards. I will begin by presenting the reader with the current situation of Southwestern PA K-12 schools, Title 1/Non-Title 1, etc. and then move onto the disparities shown between arts resources in Allegheny (and other urban) counties compared to the other remaining counties of the 13 total. I will also discuss more about how the PA arts standards are overall lacking. Finally, I will end with a call-to-action concerning how to hold privileged organizations/schools/funders accountable and how to contact PA legislators to make things better.
 
 ## Visualization Two
 ![Understanding Title I v. Non-Title I Schools](two.png)
