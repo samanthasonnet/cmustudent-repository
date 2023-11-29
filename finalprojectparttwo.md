@@ -38,6 +38,10 @@ Although not finished, this beginning layout for my shorthand project will be ex
 </script>
 > This visualization uses data from the U.S. Census Bureau and Donorschoose.org to show a few (of the many) disparities that exist between Title 1/Non-Title 1 K-12 schools by using metrics of % BIPOC students, % free/reduced lunches, % teachers to students ratio, and % in poverty.
 
+### Visualization Five
+![County Breakdown](UPDATE.png)
+> This visualization uses data from The U.S. Census Bureau and organizes it in order of county from the highest percentage of Title I schools to the lowest to show the trends concerning rates of poverty, higher education, and non-white residents.
+
 ## User Research 
 
 ### Target Audience
