@@ -4,10 +4,10 @@
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 ## Visualization One
-![Initial Story Structure](305BC084-0F80-478B-99C6-BDE065C67386.png)
+![Initial Story Structure](one.jpeg)
 
 ## Visualization Two
-![Understanding Title I v. Non-Title I Schools](IMG_5029.jpeg)
+![Understanding Title I v. Non-Title I Schools](two.png)
 
 ## Visualization Three
 <div class='tableauPlaceholder' id='viz1701214764917' style='position: relative'><noscript><a href='#'><img alt='Southwestern PA Arts Vibrancy &amp; Title I SchoolsComparing SMU Data Arts Vibrancy 2023 index scores of arts dollars, arts providers, public support, and socio-economic status with all Title I schools contained within each county. Source: SMU Data Arts Vib ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SouthwesternPAArtsVibrancyTitleISchools&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SouthwesternPAArtsVibrancyTitleISchools&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SouthwesternPAArtsVibrancyTitleISchools&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
