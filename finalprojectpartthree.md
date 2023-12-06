@@ -1,20 +1,20 @@
 | [Main Page](/README.md) | [Part One](/finalproject.md) | [Part Two](/finalprojectparttwo.md) | [Part Three](/finalprojectpartthree.md) |
 
 # Final Project Part Three
-## The final data story
+## The Final Data Story
 > [Southwestern PA Arts Education](https://preview.shorthand.com/15upZj4yLYDpfGFJ)
 
 Focusing on Inequities in K-12 Educational Systems
 
-## Changes made since Part II
+## Changes Made Since Part II
 > The feedback from Part II helped me greatly to realize that I needed to bridge the gap between what I knew from my research (and forgot was not common knowledge) and what the intended audience knew. Because of this, I decided to create a storyboard from scratch on Shorthand that created a linear, impactful story. It was also my intention to explain WHY I felt it necessary to tell the story given my background not only as an arts manager, but also as a student who grew up in the Southwestern PA arts education ecosystem, as someone who knows firsthand what it was like. A main change that I decided to implement was the inclusion of a new graph entitled "County Breakdown" to better explain the point that I was trying to make concerning the automatic disadvantage that Title I schools face. This graph compares the concentration of percentage of Title I schools per county with the percentage of poverty rates, non-white residents, and higher education degrees obtained. This graphic was able to show that the counties with the lower amount of Title I schools overwhelmingly have a higher percentage of residents with higher education degrees, and a lower poverty rate compared to the other counties.
 
 
-## The audience
+## The Audience
 > The intended audience for this story is school administrators, activists, and any student or educator directly affected by these inequities. I think that the information presented in my final Shorthand could be used as a reference for anyone trying to obtain additional funding or resources for arts inequities. I was able to gather from my interviews, specifically from the interviews conducted with Title I and Non-Title I educators, that this information would potentially be helpful to take to their school to show the inequities that currently exist. I made sure to cater the entire Shorthand presentation to an audience assuming that although they MAY know a lot about the arts education ecosystem in SWPA, that this may not necessarily be the case. Because of this, I decided to include all the background information necessary to make this information as accessible to as many groups of people as possible.
 
 
-## Final design decisions
+## Final Design Decisions
 > I decided to go with a blue and white theme because I think it complimented the graphs that I designed nicely. I was able to implement "pops" of color through various images and graphics that I incorporated throughout the story as well. Overall, I wanted to create a story that flowed nicely, in chronological order, but also in a manner that was aesthetically-pleasing. I think that my color choices are calming, yet playful and the inclusion of my personal images are a testament to my direct connection to the topic. I chose to create sections with large, bold text to really emphasize specific points in the story I was attempting to make, and the intentional hierarchy of these statements are effective in doing this. Overall, many revisions were made to the design until I felt that it felt "right" and eventually I was happy with what I designed, as I felt it complimented the story nicely.
 
 
@@ -59,7 +59,7 @@ Focusing on Inequities in K-12 Educational Systems
 
 
 
-## Final thoughts
+## Final Thoughts
 > I felt that it was important to show the personal connection that I had to this topic as an arts manager, alumni of the SWPA arts education ecosystem, a visual artist, and someone deeply invested in equitable opportunity for all children. Working as a Camp Counselor for a group of low-income PreK-12 students really impacted me, and those students that I worked with changed me forever. I grew bonds with many children and did not expect how much meeting them would impact my decision making and activism efforts in the future. Because of my experience at Camp Challenge, I can confidently say that equitable resources in education have become of extreme importance to me, acknowledging that I grew up extremely privileged and never needed to worry about insecurity concerning access to my educational experiences. I was fortunate enough to have expensive resources like a kiln at my school, and was also lucky in the sense that I was mentored by my mother who had graduated from the Arts Institute of Pittsburgh. Working in the camp showed me that many kids, even those who live 15 minutes down the road from me, do not have the same resources that I do, and I believe it to be my mission to work hard to address those disparities as best as I can.
 >
 > 
