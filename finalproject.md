@@ -1,4 +1,4 @@
-| [Main Page](/README.md) | 
+| [Main Page](/README.md) | [Part One](/finalproject.md) | [Part Two](/finalprojectparttwo.md) | [Part Three](/finalprojectpartthree.md) |
 
 # Final Project Part 1
 ## Project Outline: K-12 Arts Education Disparities in Pennsyvania
