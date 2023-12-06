@@ -27,17 +27,41 @@ Text here!
 
 
 "Title 1 Status for Public Schools in Pennsylvania Counties," ZipDataMaps, accessed November 21, 2023, [Link](https://www.zipdatamaps.com/counties/state/education/map-of-percentage-of-title-1-status-public-schools-for-counties-in-pennsylvania)
+
+
 "artlook® SWPA," Arts Ed Collaborative, Accessed November 21, 2023, [Link](https://artsedcollab.org/artlook/)
+
+
 "QuickFacts: Pennsylvania," U.S. Census Bureau, Accessed November 21, 2023, [Link](https://www.census.gov/quickfacts/fact/table/PA/PST045222)
+
+
 "Donors Choose," Donorschoose.org, Accessed November 21, 2023, [Link](https://www.donorschoose.org)
+
+
 "NATIONAL CORE ARTS STANDARDS," PA Department of Education, Accessed December 5, 2023, [Link](https://www.stateboard.education.pa.gov/Documents/Regulations%20and%20Statements/State%20Academic%20Standards/Arts.pdf)
+
+
 “ChatGPT,” OpenAI, Accessed December 5, 2023, [Link](https://chat.openai.com)
+
+
 “What is a title I school?” We Are Teachers, May 17, 2023, [Link](https://www.weareteachers.com/what-is-a-title-i-school/)
+
+
 “Find Your Legislator,” PA General Assembly, Accessed December 5, 2023, [Link](https://www.legis.state.pa.us/cfdocs/legis/home/findyourlegislator/)
+
+
 “PA State Resources,” PA Department of Education, Accessed December 5, 2023, [Link](https://www2.ed.gov/about/contacts/state/pa.html)
+
+
 “PA Arts Education Data Project,” PA Department of Education, Accessed December 5, 2023, [Link](https://www.education.pa.gov/Teachers%20-%20Administrators/Curriculum/ArtsHumanities/Pages/default.aspx)
+
+
 “Apply for a Grant,” PA Council on the Arts, Accessed December 5, 2023, [Link](https://www.arts.pa.gov/WHAT%20WE%20DO/FUNDING/apply-for-a-grant/Pages/default.aspx)
+
+
 “Pennsylvania,” National Endowment for the Arts, Accessed December 5, 2023, [Link](https://www.arts.gov/impact/state-profiles/pennsylvania)
+
+
 
 ## Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
