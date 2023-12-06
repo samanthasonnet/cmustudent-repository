@@ -67,4 +67,4 @@ Text here!
 > 
 > Overall, I thoroughly enjoyed this project and the skills that it taught me. I am also happy that I was able to create something that I am so passionate about, and that I have something to look back at and be proud of as a reflection of the class. I feel that Shorthand was very intuitive to use, and I actually thought it was quite fun to create our final deliverable. I have learned through this class that I am not exactly the biggest fan of Tableau, as I thought it would be easier to use. However, I was able to make my visualizations work and create supporting visuals from Canva as well. If I had more time to do this project, I would most likely take time to interview more educators and administrators to understand their personal experiences in SWPA to better tell my story. In general, though, I think that my story is effective and meaningful!
 
-[Me art my senior art show](IMG_9144.JPG)
+![Me art my senior art show](IMG_9144.JPG)
