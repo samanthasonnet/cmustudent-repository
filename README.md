@@ -24,3 +24,6 @@ This section will be expanded upon throughout my time in the course.
 
 ## Final Project Part 2
 [Click Here!](/finalprojectparttwo.md)
+
+## Final Project Part 3
+[Click Here!](/finalprojectpartthree.md)
