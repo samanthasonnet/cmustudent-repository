@@ -7,7 +7,10 @@
 Focusing on Inequities in K-12 Educational Systems
 
 ## Changes Made Since Part II
-> The feedback from Part II helped me greatly to realize that I needed to bridge the gap between what I knew from my research (and forgot was not common knowledge) and what the intended audience knew. Because of this, I decided to create a storyboard from scratch on Shorthand that created a linear, impactful story. It was also my intention to explain WHY I felt it necessary to tell the story given my background not only as an arts manager, but also as a student who grew up in the Southwestern PA arts education ecosystem, as someone who knows firsthand what it was like. A main change that I decided to implement was the inclusion of a new graph entitled "County Breakdown" to better explain the point that I was trying to make concerning the automatic disadvantage that Title I schools face. This graph compares the concentration of percentage of Title I schools per county with the percentage of poverty rates, non-white residents, and higher education degrees obtained. This graphic was able to show that the counties with the lower amount of Title I schools overwhelmingly have a higher percentage of residents with higher education degrees, and a lower poverty rate compared to the other counties.
+> The feedback from Part II helped me greatly to realize that I needed to bridge the gap between what I knew from my research (and forgot was not common knowledge) and what the intended audience knew. Because of this, I decided to create a storyboard from scratch on Shorthand that created a linear, impactful story. It was also my intention to explain WHY I felt it necessary to tell the story given my background not only as an arts manager, but also as a student who grew up in the Southwestern PA arts education ecosystem, as someone who knows firsthand what it was like.
+>
+>
+> A main change that I decided to implement was the inclusion of a new graph entitled "County Breakdown" to better explain the point that I was trying to make concerning the automatic disadvantage that Title I schools face. This graph compares the concentration of percentage of Title I schools per county with the percentage of poverty rates, non-white residents, and higher education degrees obtained. This graphic was able to show that the counties with the lower amount of Title I schools overwhelmingly have a higher percentage of residents with higher education degrees, and a lower poverty rate compared to the other counties.
 
 
 ## The Audience
@@ -15,7 +18,10 @@ Focusing on Inequities in K-12 Educational Systems
 
 
 ## Final Design Decisions
-> I decided to go with a blue and white theme because I think it complimented the graphs that I designed nicely. I was able to implement "pops" of color through various images and graphics that I incorporated throughout the story as well. Overall, I wanted to create a story that flowed nicely, in chronological order, but also in a manner that was aesthetically-pleasing. I think that my color choices are calming, yet playful and the inclusion of my personal images are a testament to my direct connection to the topic. I chose to create sections with large, bold text to really emphasize specific points in the story I was attempting to make, and the intentional hierarchy of these statements are effective in doing this. Overall, many revisions were made to the design until I felt that it felt "right" and eventually I was happy with what I designed, as I felt it complimented the story nicely.
+> I decided to go with a blue and white theme because I think it complimented the graphs that I designed nicely. I was able to implement "pops" of color through various images and graphics that I incorporated throughout the story as well. Overall, I wanted to create a story that flowed nicely, in chronological order, but also in a manner that was aesthetically-pleasing. I think that my color choices are calming, yet playful and the inclusion of my personal images are a testament to my direct connection to the topic.
+>
+>
+> I chose to create sections with large, bold text to really emphasize specific points in the story I was attempting to make, and the intentional hierarchy of these statements are effective in doing this. In terms of images, I used either my own or those provided on Unsplash that I felt complimented the theme nicely. I feel that the change of layout throughout the Shorthand is engaging and pulls the reader in to want to know more. Overall, many revisions were made to the design until I felt that it felt "right" and eventually I was happy with what I designed, as I felt it complimented the story nicely. 
 
 
 ## References
