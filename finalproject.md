@@ -1,6 +1,6 @@
 | [Main Page](/README.md) | [Part One](/finalproject.md) | [Part Two](/finalprojectparttwo.md) | [Part Three](/finalprojectpartthree.md) |
 
-# Final Project Part 1
+# Final Project Part One
 ## Project Outline: K-12 Arts Education Disparities in Pennsyvania
 > This final project looks at the large disparities that exist with K-12 arts education in Pennsylvania, specifically focusing on the Southwestern region of Pennsylvania. I was inspired to focus my project on this topic due to my current involvement in a Systems Synthesis project for Carnegie Mellon University that is working with Arts Education Collaborative's initiative known as artlook SWPA, an online database that serves as a robust tool for artists, arts educators, and arts organizations. I found that after working on this project for the entire Fall semester, I have grown increasingly passionate about arts education in Pennsylvania, and was absolutely shocked to find out the disparities that exist between Title I/Non-Title I school resources, as well as Urban/Non-Urban arts organization resources. Overall, I acknowledge that this undertaking may be slightly tricky because I need to maintain the confidential information that was given to us by our client while still telling a meaningful, untold story... as there is plenty of valuable information to tell and I feel it is important that it be shared.
 
